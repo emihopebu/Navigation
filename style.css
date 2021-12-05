@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+html {
+  font-size: 62.5%;
+}
+
+.container {
+  width: 100%;
+  height: 100vh;
+  background-color: #eee;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.nav-menu {
+  width: 46rem;
+  height: 3.5rem;
+  background-color: #25ac78;
+  padding: 2rem 3rem;
+  border-radius: 5rem;
+  box-shadow: 0 1rem 3rem rgba(37, 172, 120, 0.4);
+}
